@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H\\code\\Buoi_6\\Bai_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|d:\\t3h\\code\\buoi_6\\bai_2\\bai_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|d:\\t3h\\code\\buoi_6\\bai_2\\bai_2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|d:\\t3h\\code\\buoi_6\\bai_2\\bai_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEAF2B9-2CE3-43C5-8D59-1289A7849A7D}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Function.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Function.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Function.cs",
+              "RelativeToolTip": "Bai_2\\Function.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowCkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:51:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Student.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Student.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Student.cs",
+              "RelativeToolTip": "Bai_2\\Student.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:49:40.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Program.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_6\\Bai_2\\Bai_2\\Program.cs",
+              "RelativeToolTip": "Bai_2\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:47:27.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
